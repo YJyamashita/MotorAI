@@ -1,0 +1,13 @@
+# ignore specific themes
+aiapps/carbike/ml_models/
+
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.h5
+*.jpg
+*.npy
